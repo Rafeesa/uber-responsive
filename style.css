@@ -1,0 +1,381 @@
+/*.container img
+{
+    height: 750px;
+}*/
+.text1
+{
+    margin-top: 169px;
+    margin-left: 121px;
+    
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 52px;
+
+    color: white;
+}
+.text2
+{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 121px;
+}
+
+.input1
+{
+    margin-top: 20px;
+    margin-left:121px ;
+    height: 34px;
+    width: 396px;
+    padding: 1px;
+
+    border: 3px solid rgb(254, 251, 251);
+    border-radius: 7px;
+    background-color: white;
+    align-items: center;  
+}
+.input2
+{
+    margin-top: 20px;
+    margin-left:-10px ;
+    height: 34px;
+    width: 396px;
+    padding: 1px;
+
+    border: 3px solid rgb(254, 251, 251);
+    border-radius: 7px;
+    background-color: white;
+    align-items: center;  
+}
+.input1::placeholder {
+    text-align: right; /* Align placeholder text to the right */
+    direction: rtl; /* Set direction to right-to-left */
+    padding-left: 10px;
+    position: relative;
+    left: -245px; /* Add padding to move the placeholder text a little bit from the left */
+}
+.input2::placeholder {
+    text-align: right; /* Align placeholder text to the right */
+    direction: rtl; /* Set direction to right-to-left */
+    padding-left: 10px;
+    position: relative;
+    left: -230px; /* Add padding to move the placeholder text a little bit from the left */
+}
+.ri-send-plane-fill{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: -21px;
+    position: relative;
+    top: -54px;
+    left: 488px;
+}
+.ri-radio-button-fill
+{
+    font-size: 11px;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: -18px;
+    position: relative;
+    top: -57px;
+    left: 92px;
+
+}
+.ri-stop-mini-line
+{
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: -13px;
+    position: relative;
+    top: 1px;
+    left: 26px;
+
+}
+.col-md-6 button
+{
+    margin-left: 121px;
+}
+/*.container2
+{
+    height: 800px;
+}*/
+.driverimg {
+    margin-left: 130px;
+    margin-top: 71px;
+}
+.drivehead
+{margin-top: 146px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 53px;
+    font-weight: 660;
+    line-height: 52px;
+    margin-left: 110px;
+}
+.drivepara
+{margin-top: 20px;
+    letter-spacing: 0;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    margin-left: 108px;
+}
+
+.drivetxt a{
+    margin-left: 20px;
+    color: #000000;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    text-decoration-color: rgba(193, 192, 192, 0.444);
+    
+   
+}
+.container3 button 
+{
+    margin-left: 144px;
+    margin-top: 20px;
+}
+.col-md-6 a{
+    margin-left: 20px;
+    color: #000000;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    text-decoration-color: rgba(193, 192, 192, 0.444);
+}
+
+.uberbusinesshead 
+{margin-top: 48px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 53px;
+    font-weight: 660;
+    line-height: 52px;
+    margin-left: 140px;
+}
+.uberbusinesspara
+{
+    margin-top: 36px;
+    letter-spacing: 0;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 24px;
+    margin-left: 145px;
+
+
+}
+/*.uberbusiness_txt getstartbut
+{
+    margin-top: 60px;
+}*/
+.uberbusinesstxt a{
+    margin-left: 20px;
+    color: #000000;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    text-decoration-color: rgba(193, 192, 192, 0.444);
+}
+.businessimg
+{
+    margin-left: 74px;
+    margin-top: -37px;
+}
+.rentcarhead
+{margin-top: 200px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 38px;
+    font-weight: 650;
+    
+    margin-left: 106px;
+}
+.rentcarpara
+{
+    margin-top: 31px;
+    letter-spacing: 0;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 490;
+    line-height: 24px;
+    margin-left: 108px;
+}
+/*.container-fluid
+{
+    height: 700px;
+}*/
+
+   
+
+.uberapp i
+{position: relative;
+    top: -125px;
+    margin-left: 621px;
+}
+.uberscanner
+{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.down{
+    position: relative;
+    top: -75px;
+    margin-left: 50px;
+}
+.down2{
+    position: relative;
+    top: -68px;
+    margin-left: 50px;
+}
+.driverapp
+{height: 200px;
+    width: 600px;
+    margin-top: 124px;
+    margin-left: 20px;
+
+}
+.drivercanner
+{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.driverapp i
+{position: relative;
+    top: -116px;
+    margin-left: 493px;
+}
+.footer
+{
+    height: 700px;
+    width: 100%;
+}
+.ft1
+{
+    margin-top: -20px;
+    margin-left: 190px;
+    height: 100px;
+width: 80%;
+padding: 10px;
+line-height: 46px;
+
+}
+.uber
+{position:relative;
+top: 61px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 112p;
+    color: white;
+    text-decoration: none;
+    margin-left: -15px;
+    
+    
+
+}
+.helpcenter
+{position:relative;
+    top: 61px;
+    
+    
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 300px;
+    line-height: 112p;
+    color: white;
+    text-decoration: none;
+    margin-left: -8px;
+    
+
+}
+.col-md-3 
+{
+    width: 5%;
+    padding:0 15px;
+}
+.col-md-3 h4{
+    margin-top: 121px;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 179px;
+}
+.col-md-3 li
+{
+    margin-bottom: 10px;
+    list-style: none;
+    margin-left: 141px;
+}
+.col-md-3 a{ 
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.social-link a{
+    text-decoration: none;
+    text-align: center;
+    margin-right: -109px;
+    padding: -42px;
+    font-size: 18px;
+    margin-left: 95px;
+    color: white;
+margin-left: 182px;
+
+    
+}
+.lang
+{float: left;
+    margin-top: 47px;
+    height: 25px;
+  margin-left: 122px;
+  
+}
+.lang a
+{
+    text-decoration: none;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+   
+    font-size: 14px;
+    
+    color: white;
+    
+}
+.place
+{float:right;
+    margin-top: 24px;
+    height: 50px;
+    width: 10%;
+    margin-right: 176px;
+    
+ /* background-color: aquamarine;*/
+}
+.place a
+{
+    text-decoration: none;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+   
+    font-size: 14px;
+    
+    color: white;
+    
+}
+.place i{
+    position: relative;
+    top: 24px;
+}
+.col a{
+    font-family:"Poppins", sans-serif; 
+    font-size: 12px;
+    color: white;
+    text-decoration: none;padding: 4px;
+}
